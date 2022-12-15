@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GiftItem Testing GifGrid: Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Hola soy el titulo"
+      src="https://media2.giphy.com/media/VXJWhaO7afRe/giphy.gif?cid=a8630c87ofyabdttjelw7rkl0nyvg50yexkje34mrwau5wns&amp;rid=giphy.gif&amp;ct=g"
+    />
+    <p>
+      Hola soy el titulo
+    </p>
+  </div>
+</div>
+`;
